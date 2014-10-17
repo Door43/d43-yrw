@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yrw:home|Door43 (yrw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yrw|d43-yrw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yrw/archive/master.zip|d43-yrw.zip]]
+
+**Recent Changes**
+{{changes>ns = yrw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yrw|Ethnologue data]]
+
